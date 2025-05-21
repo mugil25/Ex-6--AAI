@@ -55,7 +55,9 @@ print ( "Synonyms : " ,set (synonyms) )
 print ( "Antonyms : " ,set(antonyms) )
 ```
 <H3>Output</H3>
-![image](https://github.com/user-attachments/assets/ef138ef9-836e-45f8-960e-229d3bd21b09)
+
+![image](https://github.com/user-attachments/assets/f839d9c1-650b-4d2f-8255-57f4352b19bd)
+
 
 ![image](https://github.com/user-attachments/assets/70ec0da8-e94d-4ade-b2c4-7078f9866de8)
 
